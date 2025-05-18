@@ -1,6 +1,6 @@
 # Digital Television Coverage Study – Regional Report
 
-This repository contains the full report and supporting materials for a comprehensive study on digital television coverage in a specific region of Greece. The report includes geophysical and demographic data, broadcasting standards, legal framework, signal propagation analysis, and infrastructure planning.
+This repository contains the full report and supporting materials for a comprehensive study on digital television coverage in Boiοtia of Greece. The report includes geophysical and demographic data, broadcasting standards, legal framework, signal propagation analysis, and infrastructure planning.
 
 ## 📄 Table of Contents (Translated)
 
@@ -42,8 +42,5 @@ This study may involve:
 
 This project focuses on broadcasting infrastructure, signal propagation, and regulatory compliance for digital TV transmission in mountainous and urban terrain.
 
-## 📚 License / Copyright
 
-© [Author or Organization Name]. All rights reserved.  
-For academic use only. Redistribution requires permission.
 
