@@ -36,7 +36,7 @@ This repository contains the full report and supporting materials for a comprehe
 This study may involve:
 - GIS software for mapping
 - Radio frequency simulation tools
-- Standard broadcast engineering calculations
+- Standard broadcast engineering calculations using Matlab script
 
 ## 📌 Notes
 
